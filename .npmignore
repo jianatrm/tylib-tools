@@ -1,0 +1,17 @@
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+# 忽略目录
+examples/
+packages/
+public/
+
+# 忽略指定文件
+vue.config.js
+babel.config.js
+*.map
