@@ -1,7 +1,5 @@
 # tylib-tools
 
-[![VueJsonp](https://github.com/LancerComet/vue-jsonp/workflows/Test/badge.svg)](https://github.com/LancerComet/vue-jsonp/actions)
-
 A tiny library for handling json.
 
 ## Quick Start
